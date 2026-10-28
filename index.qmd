@@ -99,9 +99,3 @@ Mais do que chegar à resposta: acompanhe o raciocínio, as fórmulas e os conce
 ::: small-note
 O RadHub é um projeto educacional independente. As informações deste site têm finalidade educativa e não substituem normas oficiais, documentos regulatórios ou protocolos institucionais vigentes.
 :::
-
-learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

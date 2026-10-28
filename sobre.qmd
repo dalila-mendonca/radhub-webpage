@@ -41,4 +41,4 @@ Valorização de referências confiáveis e atenção às atualizações dos con
 
 Explore os conteúdos gratuitos ou conheça os cursos disponíveis.
 
-[Conhecer os cursos](cursos/index.qmd){.btn .btn-primary} [Instagram do RadHub](https://www.instagram.com/radhubcursos/){.btn .btn-outline-primary}
+[Conhecer os cursos](cursos/index.qmd){.btn .btn-primary} [Instagram do RadHub](https://www.instagram.com/dalila.radhub/){.btn .btn-outline-primary}

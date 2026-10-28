@@ -70,11 +70,13 @@ Conteúdo organizado, materiais de apoio e estratégias de aprendizagem para aco
 :::
 
 ::: course-card-body
-<h2>Curso de Física Médica Para Dosimetristas</h2>
+<h2>Curso de Física Médica Para Certificação de Dosimetristas</h2>
 
-<p>Aulas com o conteúdo de Física Médica e Radioterapia cobrados no edital para certificação de Dosimetristas da ABD.</p>
+<p>Aulas com o conteúdo de Física Médica e Radioterapia cobrados no edital para certificação de Dosimetristas Especialístas em Radioterapia da ABD.</p>
 
 <ul>
+
+<li>Videoaula</li>
 
 <li>Resumos didáticos</li>
 
@@ -84,11 +86,9 @@ Conteúdo organizado, materiais de apoio e estratégias de aprendizagem para aco
 
 </ul>
 
-<a class="btn btn-outline-primary w-100" href="https://go.hotmart.com/S108208132Q?dp=1" target="_blank" rel="noopener">Ver material</a>
+<a class="btn btn-primary w-100" href="https://go.hotmart.com/S108208132Q?dp=1" target="_blank" rel="noopener">Conheça o Curso</a>
 
 <p class="course-footnote">
-
-Substitua o link de exemplo pelo endereço de vendas correto na Hotmart.
 
 </p>
 :::

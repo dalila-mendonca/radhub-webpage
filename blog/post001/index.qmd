@@ -1,37 +1,74 @@
 ---
-title: "Bem-Vindos Ao Blog RadHub Cursos"
-description: "Um ponto de partida para estruturar a rotina de estudos."
+title: "Bem-Vindos Ao Blog do RadHub"
+description: "Aqui você encontra a História do Projeto e Sua Motivação"
 author: "Equipe RadHub"
 date: "2026-10-26"
 image: "img.png"
 categories: [Educação,Cursos,Física Médica]
 ---
 
-Estudar Física Médica envolve conectar conceitos físicos, fundamentos biológicos, instrumentação e aplicações clínicas. Uma rotina organizada ajuda a transformar esse conteúdo em conhecimento utilizável.
+## Conheça o projeto RadHub Cursos
 
-## 1. Comece pelos objetivos
+As primeiras perguntas que eu faria se um curso novo surgisse à minha frente seriam: Que curso é esse? Quem o ministra? É confiável? E, com toda a certeza, eu ignoraria o curso e buscaria uma fonte já consolidada no mercado. O novo sempre carrega incertezas, e nós precisamos nos sentir seguros em nossas escolhas.
 
-Defina qual é a prioridade do momento: acompanhar as disciplinas da graduação, preparar-se para uma residência ou estudar para uma certificação.
+Mas vou me atrever a começar com uma simples pergunta: qual é a taxa de conversão da sua fonte confiável? Esse dado é divulgado ou apenas um ou dois casos de destaque são apresentados? Fica aqui a reflexão!
 
-## 2. Divida o conteúdo em blocos
+Antes de me aprofundar no projeto RadHub, quero começar explicando de onde surgiu esse nome.
 
-Em vez de tentar revisar tudo de uma vez, organize os temas em blocos menores. Por exemplo:
+Um assunto que sempre despertou meu interesse, mas que costumava ser abordado de forma superficial nos congressos, era o desenvolvimento de scripts e o uso da API do software de planejamento. Comecei a aprender a programar, gostei mais do que deveria e, por fim, iniciei uma graduação na modalidade EAD.
 
-- Fundamentos de Física das Radiações
-- Interação da radiação com a matéria
-- Detectores e instrumentação
-- Dosimetria
-- Proteção radiológica
-- Aplicações clínicas
+Enquanto desenvolvia minhas habilidades em C#, tive a ideia de criar diversos scripts e divulgá-los para todo mundo, seguindo uma proposta semelhante à do Sci-Hub, mas voltada para a Radioterapia: o RadHub.
 
-## 3. Combine teoria e prática
+Sempre tive em mente que o conhecimento deve ser compartilhado, principalmente quando tem potencial para impactar diversos centros, aumentar a segurança do paciente e otimizar processos. Isso é especialmente importante no SUS, onde, geralmente, a demanda de pacientes é maior.
 
-Após revisar um conceito, resolva questões relacionadas. Ao corrigir, registre não apenas a alternativa correta, mas também por que as demais opções estão incorretas.
+Enfim, a vida aconteceu e hoje estou aqui, ainda com o RadHub, mas com outro propósito: saí da área de TI e migrei para a área da Educação.
 
-## 4. Retome os assuntos
+Esse é um desejo que tenho desde que fui aprovada na certificação da ABFM, em 2021. A princípio, eu pretendia desenvolver um material didático que auxiliasse os candidatos na preparação para a prova. Porém, esse é um projeto que exige tempo e dedicação, recursos que eu não tinha naquela época. Agora, tenho! E foi assim que resolvi iniciar o projeto RadHub Cursos.
 
-Use revisões espaçadas e listas de erros para identificar quais conceitos precisam de mais atenção.
+## Mas, afinal, quais são os cursos, a metodologia e as vantagens? Como sei se funciona? Vale a pena?
 
-------------------------------------------------------------------------
+Bom, eu tenho TDAH e Transtorno do Espectro Autista (TEA), nível 1 de suporte. Esta é a primeira vez que falo publicamente sobre o TEA.
 
-*Este artigo é um ponto de partida. Adapte a rotina ao edital, ao tempo disponível e às suas necessidades de aprendizagem.*
+Uma metodologia de ensino baseada exclusivamente em aulas expositivas e listas de exercícios nunca funcionou muito bem para mim. Inclusive, existem muitas críticas a esse modelo de ensino.
+
+Para aprender de verdade, estudei diversas técnicas de aprendizagem e combinei aquelas que se mostraram mais eficientes para mim durante a faculdade. Acredite: consegui me formar praticamente sem frequentar as aulas!
+
+O RadHub Cursos tem três princípios norteadores:
+
+1.  **O conhecimento deve ser acessível a todos, da melhor forma possível.**
+
+2.  **Nem todo aluno aprende bem por meio de aulas expositivas.** Por isso, é necessário oferecer diferentes fontes e metodologias de aprendizagem.
+
+3.  **O foco do projeto é o aluno e seu objetivo.**
+
+Portanto, o objetivo do projeto é que os alunos que se matricularem e estudarem corretamente com o nosso material tenham condições de alcançar seus objetivos.
+
+Para isso, selecionei algumas estratégias de aprendizagem:
+
+**1. Videoaulas:** utilizadas para introduzir o aluno ao assunto de forma ativa, incentivando-o a raciocinar e acompanhar o conteúdo durante a aula.
+
+**2. Aulas degravadas:** transcrições das videoaulas para os alunos que aprendem melhor por meio da leitura. Também podem ser utilizadas como material de revisão.
+
+**3. E-books:** materiais em texto que destacam os pontos que merecem mais atenção, apresentam exercícios resolvidos e explicados e trazem perguntas estratégicas para incentivar o aluno a responder a questões conceituais que o ajudarão na resolução dos exercícios. Além disso, incluem um quiz conceitual para verificar se o conteúdo foi compreendido.
+
+**4. Questionários on-line:** listas de exercícios disponibilizadas pelo Google Forms, que permitem acompanhar o desempenho dos alunos. As questões com maior índice de erros e os temas que apresentarem mais dificuldades serão abordados em uma live agendada com os alunos. Aqueles que apresentarem dificuldades específicas também poderão contar com uma mentoria individual para esclarecer suas dúvidas.
+
+**5. Simulados com questões de provas anteriores:** para que o aluno pratique a resolução de provas e se familiarize com o estilo das questões cobradas nos exames.
+
+**6. Acesso a uma comunidade:** um espaço para receber suporte, compartilhar dúvidas, enviar feedbacks e relatar dificuldades.
+
+**7. Flashcards:** cartões de estudo com os principais conceitos e informações que exigem memorização, ajudando na fixação do conteúdo por meio da repetição espaçada.
+
+O objetivo é que o aluno aprenda o conteúdo sem gastar tempo desnecessário, consolide o conhecimento por meio de revisões estratégicas, aplique o que aprendeu nas listas de exercícios, tenha suporte para esclarecer suas dúvidas e utilize os flashcards para reforçar a memorização dos conteúdos cobrados nas provas.
+
+Ao final, desejo que o aluno se sinta confiante para realizar a prova escolhida e que, com uma base sólida de conhecimento, consiga alcançar seu objetivo: **a aprovação!**
+
+## Quando os cursos estarão disponíveis?
+
+Os primeiros cursos serão liberados em fevereiro de 2027. O desenvolvimento dos materiais exige tempo, concentração, revisão e comprometimento, para garantir que os conteúdos sejam apresentados com rigor e que nenhum conceito incorreto seja disseminado.
+
+Como o projeto prevê um acompanhamento próximo dos alunos, as vagas precisarão ser limitadas para que eu consiga atender a todos com a qualidade e a atenção que considero essenciais.
+
+Em alguns casos, como na preparação para a prova de Supervisor de Proteção Radiológica, começarei a realizar as aulas síncronas assim que o edital for divulgado.
+
+Já para os alunos que estão se preparando para as provas de residência, as aulas síncronas ocorrerão sob demanda, mediante solicitação dos próprios alunos ou sempre que eu identificar a necessidade de intervir para esclarecer dúvidas e reforçar determinados conteúdos.

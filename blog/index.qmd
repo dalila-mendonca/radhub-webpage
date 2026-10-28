@@ -1,17 +1,84 @@
 ---
 title: "Blog"
 description: "Artigos, conceitos e exercícios comentados de Física Médica."
+body-classes: blog-page
 listing:
   contents: "/*/index.qmd"
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: true
   filter-ui: true
   page-size: 9
   feed: true
+  grid-columns: 3
+  image-height: 190px
+  image-align: left
+  fields: [image, title, description, date, categories]
 ---
 
-# Conhecimento para levar adiante
+:::::::::::::: blog-hero
+:::::::: blog-hero-copy
+[RADHUB · BLOG]{.blog-eyebrow}
 
-Artigos, explicações e resoluções para apoiar sua formação em Física Médica e sua preparação para provas e certificações.
+# Ciência, prática e conhecimento em Física Médica
+
+Conteúdos para entender conceitos, revisar o que importa e praticar com mais confiança — da graduação às provas de residência e certificações.
+
+::::::: blog-highlights
+::: blog-highlight
+[✳]{.blog-highlight-icon}Artigos técnicos
+:::
+
+::: blog-highlight
+[↗]{.blog-highlight-icon}Exercícios resolvidos
+:::
+
+::: blog-highlight
+[◎]{.blog-highlight-icon}Dicas de estudo
+:::
+
+::: blog-highlight
+[⌁]{.blog-highlight-icon}Física Médica na prática
+:::
+:::::::
+::::::::
+
+::::::: {.blog-hero-art aria-hidden="true"}
+::: {.blog-orbit .blog-orbit-one}
+:::
+
+::: {.blog-orbit .blog-orbit-two}
+:::
+
+::: {.blog-orbit .blog-orbit-three}
+:::
+
+::: blog-atom-core
+:::
+:::::::
+::::::::::::::
+
+:::: blog-section-heading
+::: {}
+[EXPLORE O CONTEÚDO]{.blog-section-kicker}
+
+<h2>Conhecimento para levar adiante</h2>
+
+<p>Escolha um assunto ou explore os artigos mais recentes.</p>
+:::
+::::
+
+::::: blog-course-callout
+::: blog-callout-symbol
+✦
+:::
+
+::: blog-callout-copy
+<h2>Quer aprofundar seus estudos?</h2>
+
+<p>Conheça os cursos e materiais da RadHub para organizar sua preparação e avançar nos seus objetivos.</p>
+:::
+
+<a class="blog-callout-link" href="/cursos/">Conheça os cursos [→]{aria-hidden="true"}</a>
+:::::
