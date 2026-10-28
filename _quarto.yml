@@ -4,13 +4,17 @@ project:
 
 website:
   google-analytics: "G-DECF2SP13F"
-  title: "RadHub"
-  description: "Conhecimento em Física Médica, preparação para residências e certificações."
+  title: "RadHub | Física Médica"
+  description:  "Cursos, videoaulas, exercícios resolvidos e materiais de estudo em Física Médica para provas de residência, certificações e desenvolvimento profissional."
   site-url: "https://www.radhubcursos.com.br"
   favicon: assets/radhub-icon.svg
-  open-graph: true
-  back-to-top-navigation: true
+  image: assets/radhub-social.png
+  image-alt: "RadHub — educação em Física Médica"
+  open-graph:
+    locale: pt_BR
+    site-name: "RadHub | Física Médica"
   twitter-card: true
+  back-to-top-navigation: true
   navbar:
     logo: assets/radhub-icon.svg
     logo-alt: "Símbolo do RadHub"

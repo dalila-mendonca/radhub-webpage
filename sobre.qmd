@@ -1,6 +1,6 @@
 ---
-title: "Sobre o RadHub"
-description: "Conheça a proposta educacional do RadHub."
+title: "Sobre a RadHub | Física Médica e Educação"
+description: "Conheça a proposta da RadHub, criada para tornar o conhecimento em Física Médica mais acessível, didático e prático."
 ---
 
 # Conhecimento que transforma.

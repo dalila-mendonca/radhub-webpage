@@ -1,10 +1,10 @@
 ---
 title: "Bem-Vindos Ao Blog do RadHub"
-description: "Aqui você encontra a História do Projeto e Sua Motivação"
-author: "Equipe RadHub"
+description: "Aprenda a organizar os estudos de Física Médica para a residência, revisar os principais conceitos e praticar com questões."
+author: "Dalila Mendonça"
 date: "2026-10-26"
 image: "img.png"
-categories: [Educação,Cursos,Física Médica]
+categories: [Educação,Cursos,Física Médica, Estudos, Carreira]
 ---
 
 ## Conheça o projeto RadHub Cursos

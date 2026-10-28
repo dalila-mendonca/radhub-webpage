@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-description: "Artigos, conceitos e exercícios comentados de Física Médica."
+title: "Blog de Física Médica | RadHub"
+description: "Artigos de Física Médica, exercícios resolvidos e conteúdos sobre radioterapia, dosimetria e proteção radiológica."
 body-classes: blog-page
 listing:
   contents: "/*/index.qmd"

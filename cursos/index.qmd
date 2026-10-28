@@ -1,6 +1,6 @@
 ---
-title: "Cursos"
-description: "Conheça os cursos preparatórios e materiais educacionais do RadHub."
+title: "Cursos de Física Médica | RadHub"
+description: "Prepare-se para provas de residência e certificações em Física Médica com videoaulas, e-books, exercícios e simulados."
 ---
 
 # Cursos para a sua próxima etapa
