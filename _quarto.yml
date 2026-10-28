@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs/
+
+website:
+  google-analytics: "G-DECF2SP13F"
+  title: "RadHub"
+  description: "Conhecimento em Física Médica, preparação para residências e certificações."
+  site-url: "https://www.radhubcursos.com.br"
+  favicon: assets/radhub-icon.svg
+  open-graph: true
+  back-to-top-navigation: true
+  twitter-card: true
+  navbar:
+    logo: assets/radhub-icon.svg
+    logo-alt: "Símbolo do RadHub"
+    title: "RadHub | Cursos"
+    background: "#030716"
+    foreground: "#F8F8F8"
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-heart-fill
+      - href: cursos/index.qmd
+        text: Cursos
+        icon: book-half
+      - href: blog/index.qmd
+        text: Blog
+        icon: chat-left-heart-fill
+    right:
+      - href: sobre.qmd
+        text: Sobre o RadHub
+      - href: about.qmd
+        text: Sobre Mim
+      - icon: instagram
+        href: https://www.instagram.com/dalila.radhub/
+        aria-label: Instagram do RadHub
+  page-footer:
+    background: "#030716"
+    foreground: "#F8F8F8"
+    left: |
+      © 2026 RadHub. Conhecimento que transforma.
+    right:
+      - text: "Instagram"
+        href: https://www.instagram.com/dalila.radhub/
+  search:
+    location: navbar
+    type: overlay
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

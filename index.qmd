@@ -1,0 +1,107 @@
+---
+title: "Conhecimento que transforma."
+subtitle: "Física Médica, preparação e desenvolvimento profissional."
+page-layout: full
+---
+
+:::::: hero-banner
+:::: hero-content
+::: eyebrow
+FÍSICA MÉDICA · EDUCAÇÃO
+:::
+
+# Seu próximo passo na Física Médica começa aqui.
+
+Aprenda, pratique e prepare-se para os próximos desafios da sua formação e carreira com conteúdos didáticos, exercícios comentados e cursos especializados.
+
+[Conheça os cursos](cursos/index.qmd){.btn .btn-primary .btn-lg .hero-cta} [Explore o blog](blog/index.qmd){.btn .btn-outline-light .btn-lg .hero-cta-secondary}
+::::
+
+::: {.hero-orbit aria-hidden="true"}
+<img src="assets/radhub-icon.svg" class="hero-atom"/>
+:::
+::::::
+
+## Aprenda do seu jeito
+
+::::::::: feature-grid
+:::: feature-card
+::: feature-icon
+✦
+:::
+
+### Cursos preparatórios
+
+Conteúdo organizado para ajudar você a estudar com mais estratégia para residências e certificações.
+
+[Explorar cursos →](cursos/index.qmd)
+::::
+
+:::: feature-card
+::: feature-icon
+∑
+:::
+
+### Exercícios resolvidos
+
+Acompanhe o raciocínio por trás das questões e fortaleça sua compreensão dos conceitos.
+
+[Ver conteúdos →](blog/index.qmd)
+::::
+
+:::: feature-card
+::: feature-icon
+⚛
+:::
+
+### Física Médica na prática
+
+Artigos, explicações e materiais sobre Física Médica, radioterapia, dosimetria e proteção radiológica.
+
+[Ir para o blog →](blog/index.qmd)
+::::
+:::::::::
+
+::::: section-callout
+:::: {}
+::: eyebrow
+ESTUDE COM DIREÇÃO
+:::
+
+<h2>Seu tempo de estudo importa.</h2>
+
+<p>Encontre materiais pensados para tornar o aprendizado mais claro, organizado e conectado aos seus objetivos.</p>
+::::
+
+<a href="cursos/index.qmd" class="btn btn-primary">Encontrar meu curso</a>
+:::::
+
+## Do blog para os seus estudos
+
+::::: latest-grid
+::: latest-card
+[FÍSICA MÉDICA]{.article-tag} \### Conceitos que vale a pena revisar
+
+Reúna os fundamentos essenciais e construa uma base sólida para avançar nos estudos.
+
+[Explorar artigos →](blog/index.qmd)
+:::
+
+::: latest-card
+[QUESTÕES COMENTADAS]{.article-tag} \### Entenda como resolver
+
+Mais do que chegar à resposta: acompanhe o raciocínio, as fórmulas e os conceitos envolvidos.
+
+[Ver resoluções →](blog/index.qmd)
+:::
+:::::
+
+::: small-note
+O RadHub é um projeto educacional independente. As informações deste site têm finalidade educativa e não substituem normas oficiais, documentos regulatórios ou protocolos institucionais vigentes.
+:::
+
+learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

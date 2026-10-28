@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>RadHub</title>
+<link>https://www.radhubcursos.com.br/blog/</link>
+<atom:link href="https://www.radhubcursos.com.br/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Artigos, conceitos e exercícios comentados de Física Médica.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Mon, 26 Oct 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bem-Vindos Ao Blog RadHub Cursos</title>
+  <dc:creator>Equipe RadHub</dc:creator>
+  <link>https://www.radhubcursos.com.br/blog/post001/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Estudar Física Médica envolve conectar conceitos físicos, fundamentos biológicos, instrumentação e aplicações clínicas. Uma rotina organizada ajuda a transformar esse conteúdo em conhecimento utilizável.</p>
+<section id="comece-pelos-objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="comece-pelos-objetivos">1. Comece pelos objetivos</h2>
+<p>Defina qual é a prioridade do momento: acompanhar as disciplinas da graduação, preparar-se para uma residência ou estudar para uma certificação.</p>
+</section>
+<section id="divida-o-conteúdo-em-blocos" class="level2">
+<h2 class="anchored" data-anchor-id="divida-o-conteúdo-em-blocos">2. Divida o conteúdo em blocos</h2>
+<p>Em vez de tentar revisar tudo de uma vez, organize os temas em blocos menores. Por exemplo:</p>
+<ul>
+<li>Fundamentos de Física das Radiações</li>
+<li>Interação da radiação com a matéria</li>
+<li>Detectores e instrumentação</li>
+<li>Dosimetria</li>
+<li>Proteção radiológica</li>
+<li>Aplicações clínicas</li>
+</ul>
+</section>
+<section id="combine-teoria-e-prática" class="level2">
+<h2 class="anchored" data-anchor-id="combine-teoria-e-prática">3. Combine teoria e prática</h2>
+<p>Após revisar um conceito, resolva questões relacionadas. Ao corrigir, registre não apenas a alternativa correta, mas também por que as demais opções estão incorretas.</p>
+</section>
+<section id="retome-os-assuntos" class="level2">
+<h2 class="anchored" data-anchor-id="retome-os-assuntos">4. Retome os assuntos</h2>
+<p>Use revisões espaçadas e listas de erros para identificar quais conceitos precisam de mais atenção.</p>
+<hr>
+<p><em>Este artigo é um ponto de partida. Adapte a rotina ao edital, ao tempo disponível e às suas necessidades de aprendizagem.</em></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Educação</category>
+  <category>Cursos</category>
+  <category>Física Médica</category>
+  <guid>https://www.radhubcursos.com.br/blog/post001/</guid>
+  <pubDate>Mon, 26 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://www.radhubcursos.com.br/blog/post001/img.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+</channel>
+</rss>

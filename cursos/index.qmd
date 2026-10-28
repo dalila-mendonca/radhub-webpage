@@ -1,0 +1,102 @@
+---
+title: "Cursos"
+description: "Conheça os cursos preparatórios e materiais educacionais do RadHub."
+---
+
+# Cursos para a sua próxima etapa
+
+Conteúdo organizado, materiais de apoio e estratégias de aprendizagem para acompanhar seus objetivos acadêmicos e profissionais.
+
+:::::::::::: course-grid
+::::: course-card
+::: {.course-card-top .course-blue}
+[RESIDÊNCIAS]{.course-label}[∑]{.course-symbol}
+:::
+
+::: course-card-body
+<h2>Preparatório para Residências</h2>
+
+<p>Revise os principais conteúdos de Física Médica com videoaulas, e-books, listas de exercícios e recursos de revisão.</p>
+
+<ul>
+
+<li>Videoaulas e materiais de apoio</li>
+
+<li>Exercícios e simulados</li>
+
+<li>Flashcards para revisão</li>
+
+</ul>
+
+<a class="btn btn-primary w-100" href="https://go.hotmart.com/D108015014B?dp=1" target="_blank" rel="noopener">Conhecer o curso</a>
+
+<p class="course-footnote">
+
+</p>
+:::
+:::::
+
+::::: course-card
+::: {.course-card-top .course-purple}
+[CERTIFICAÇÃO]{.course-label}[⚛]{.course-symbol}
+:::
+
+::: course-card-body
+<h2>Preparatório para Supervisor de Proteção Radiológica</h2>
+
+<p>Organize sua preparação para a certificação com conteúdo teórico, revisão e questões de apoio.</p>
+
+<ul>
+
+<li>Módulo geral</li>
+
+<li>Conteúdo específico de Radioterapia</li>
+
+<li>Materiais de revisão e simulados</li>
+
+</ul>
+
+<a class="btn btn-primary w-100" href="https://go.hotmart.com/O108077747N?dp=1" target="_blank" rel="noopener">Conhecer o curso</a>
+
+<p class="course-footnote">
+
+</p>
+:::
+:::::
+
+::::: course-card
+::: {.course-card-top .course-cyan}
+[Física Médica]{.course-label}[✦]{.course-symbol}
+:::
+
+::: course-card-body
+<h2>Curso de Física Médica Para Dosimetristas</h2>
+
+<p>Aulas com o conteúdo de Física Médica e Radioterapia cobrados no edital para certificação de Dosimetristas da ABD.</p>
+
+<ul>
+
+<li>Resumos didáticos</li>
+
+<li>Conteúdos organizados por tema</li>
+
+<li>Apoio à revisão</li>
+
+</ul>
+
+<a class="btn btn-outline-primary w-100" href="https://go.hotmart.com/S108208132Q?dp=1" target="_blank" rel="noopener">Ver material</a>
+
+<p class="course-footnote">
+
+Substitua o link de exemplo pelo endereço de vendas correto na Hotmart.
+
+</p>
+:::
+:::::
+::::::::::::
+
+## Não sabe por onde começar?
+
+Explore os artigos gratuitos do blog e conheça a proposta do RadHub antes de escolher o material mais adequado para seu momento.
+
+[Explorar o blog →](../blog/index.qmd)

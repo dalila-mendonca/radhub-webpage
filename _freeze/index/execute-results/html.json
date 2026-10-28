@@ -1,0 +1,15 @@
+{
+  "hash": "9662b325c5895cab8c802fe7e7475a02",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Conhecimento que transforma.\"\nsubtitle: \"Física Médica, preparação e desenvolvimento profissional.\"\npage-layout: full\n---\n\n:::::: hero-banner\n:::: hero-content\n::: eyebrow\nFÍSICA MÉDICA · EDUCAÇÃO\n:::\n\n# Seu próximo passo na Física Médica começa aqui.\n\nAprenda, pratique e prepare-se para os próximos desafios da sua formação e carreira com conteúdos didáticos, exercícios comentados e cursos especializados.\n\n[Conheça os cursos](cursos/index.qmd){.btn .btn-primary .btn-lg .hero-cta} [Explore o blog](blog/index.qmd){.btn .btn-outline-light .btn-lg .hero-cta-secondary}\n::::\n\n::: {.hero-orbit aria-hidden=\"true\"}\n<img src=\"assets/radhub-icon.svg\" class=\"hero-atom\"/>\n:::\n::::::\n\n## Aprenda do seu jeito\n\n::::::::: feature-grid\n:::: feature-card\n::: feature-icon\n✦\n:::\n\n### Cursos preparatórios\n\nConteúdo organizado para ajudar você a estudar com mais estratégia para residências e certificações.\n\n[Explorar cursos →](cursos/index.qmd)\n::::\n\n:::: feature-card\n::: feature-icon\n∑\n:::\n\n### Exercícios resolvidos\n\nAcompanhe o raciocínio por trás das questões e fortaleça sua compreensão dos conceitos.\n\n[Ver conteúdos →](blog/index.qmd)\n::::\n\n:::: feature-card\n::: feature-icon\n⚛\n:::\n\n### Física Médica na prática\n\nArtigos, explicações e materiais sobre Física Médica, radioterapia, dosimetria e proteção radiológica.\n\n[Ir para o blog →](blog/index.qmd)\n::::\n:::::::::\n\n::::: section-callout\n:::: {}\n::: eyebrow\nESTUDE COM DIREÇÃO\n:::\n\n<h2>Seu tempo de estudo importa.</h2>\n\n<p>Encontre materiais pensados para tornar o aprendizado mais claro, organizado e conectado aos seus objetivos.</p>\n::::\n\n<a href=\"cursos/index.qmd\" class=\"btn btn-primary\">Encontrar meu curso</a>\n:::::\n\n## Do blog para os seus estudos\n\n::::: latest-grid\n::: latest-card\n[FÍSICA MÉDICA]{.article-tag} \\### Conceitos que vale a pena revisar\n\nReúna os fundamentos essenciais e construa uma base sólida para avançar nos estudos.\n\n[Explorar artigos →](blog/index.qmd)\n:::\n\n::: latest-card\n[QUESTÕES COMENTADAS]{.article-tag} \\### Entenda como resolver\n\nMais do que chegar à resposta: acompanhe o raciocínio, as fórmulas e os conceitos envolvidos.\n\n[Ver resoluções →](blog/index.qmd)\n:::\n:::::\n\n::: small-note\nO RadHub é um projeto educacional independente. As informações deste site têm finalidade educativa e não substituem normas oficiais, documentos regulatórios ou protocolos institucionais vigentes.\n:::\n\nlearn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,44 @@
+---
+title: "Sobre o RadHub"
+description: "Conheça a proposta educacional do RadHub."
+---
+
+# Conhecimento que transforma.
+
+O RadHub nasceu com o propósito de ampliar o acesso ao conhecimento em Física Médica, oferecendo materiais didáticos e diferentes estratégias de aprendizagem para quem está em formação ou busca avançar profissionalmente.
+
+A proposta é ajudar estudantes e profissionais a estudar com mais clareza, organização e autonomia, respeitando a realidade de quem precisa conciliar diferentes responsabilidades com uma rotina de preparação.
+
+## O que orienta nosso trabalho
+
+::::::: value-grid
+::: value-card
+### Acesso ao conhecimento
+
+Conteúdos organizados para tornar o aprendizado mais acessível e compreensível.
+:::
+
+::: value-card
+### Didática
+
+Explicações estruturadas para conectar fundamentos, aplicações e resolução de problemas.
+:::
+
+::: value-card
+### Aprendizagem contínua
+
+Aprimoramento dos materiais a partir de dúvidas, sugestões e feedback dos estudantes.
+:::
+
+::: value-card
+### Compromisso técnico
+
+Valorização de referências confiáveis e atenção às atualizações dos conteúdos.
+:::
+:::::::
+
+## Vamos estudar juntos?
+
+Explore os conteúdos gratuitos ou conheça os cursos disponíveis.
+
+[Conhecer os cursos](cursos/index.qmd){.btn .btn-primary} [Instagram do RadHub](https://www.instagram.com/radhubcursos/){.btn .btn-outline-primary}

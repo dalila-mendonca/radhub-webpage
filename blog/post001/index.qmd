@@ -1,0 +1,37 @@
+---
+title: "Bem-Vindos Ao Blog RadHub Cursos"
+description: "Um ponto de partida para estruturar a rotina de estudos."
+author: "Equipe RadHub"
+date: "2026-10-26"
+image: "img.png"
+categories: [Educação,Cursos,Física Médica]
+---
+
+Estudar Física Médica envolve conectar conceitos físicos, fundamentos biológicos, instrumentação e aplicações clínicas. Uma rotina organizada ajuda a transformar esse conteúdo em conhecimento utilizável.
+
+## 1. Comece pelos objetivos
+
+Defina qual é a prioridade do momento: acompanhar as disciplinas da graduação, preparar-se para uma residência ou estudar para uma certificação.
+
+## 2. Divida o conteúdo em blocos
+
+Em vez de tentar revisar tudo de uma vez, organize os temas em blocos menores. Por exemplo:
+
+- Fundamentos de Física das Radiações
+- Interação da radiação com a matéria
+- Detectores e instrumentação
+- Dosimetria
+- Proteção radiológica
+- Aplicações clínicas
+
+## 3. Combine teoria e prática
+
+Após revisar um conceito, resolva questões relacionadas. Ao corrigir, registre não apenas a alternativa correta, mas também por que as demais opções estão incorretas.
+
+## 4. Retome os assuntos
+
+Use revisões espaçadas e listas de erros para identificar quais conceitos precisam de mais atenção.
+
+------------------------------------------------------------------------
+
+*Este artigo é um ponto de partida. Adapte a rotina ao edital, ao tempo disponível e às suas necessidades de aprendizagem.*

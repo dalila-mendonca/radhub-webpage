@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Símbolo do RadHub — átomo estilizado</title>
+  <defs>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10EDED"/>
+      <stop offset="100%" stop-color="#BCDCFA"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7417EB"/>
+      <stop offset="100%" stop-color="#FB04AF"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="6.5" fill="#F8F8F8"/>
+  <ellipse cx="60" cy="60" rx="47" ry="18" fill="none" stroke="url(#cyan)" stroke-width="4" transform="rotate(45 60 60)"/>
+  <ellipse cx="60" cy="60" rx="47" ry="18" fill="none" stroke="url(#purple)" stroke-width="4" transform="rotate(-45 60 60)"/>
+  <ellipse cx="60" cy="60" rx="47" ry="18" fill="none" stroke="#F8F8F8" stroke-opacity=".88" stroke-width="2.5"/>
+  <circle cx="27" cy="27" r="5.5" fill="#10EDED"/>
+  <circle cx="94" cy="27" r="5.5" fill="#FB04AF"/>
+  <circle cx="95" cy="60" r="5" fill="#BCDCFA"/>
+</svg>
